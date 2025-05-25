@@ -1,0 +1,61 @@
+mkdir tarefa_git
+
+git init
+
+nano a1.txt
+
+nano a2.txt
+
+nano a3.txt
+
+git add .
+
+git commit -m "criando arquivos"
+
+nano a2.txt
+
+nano a3.txt
+
+git status
+
+git diff
+
+git add .
+
+git commit -m "altera conteúdos de arquivos"
+
+git log 
+
+git log --oneline
+
+git log --graph
+
+git remote add origin https://github.com/joaovitor73/tarefa_git_3.git
+
+git push --set-upstream origin master
+
+git revert d5284e9a8b80a1e1d19689112e678ed085af7973
+
+
+git stash push
+
+git checkout -b develop
+
+
+git switch master
+
+
+ git reflog
+
+
+git tag v1.0
+
+
+nano comandos.txt
+
+git push
+
+
+
+
+
