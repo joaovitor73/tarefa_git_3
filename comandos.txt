@@ -50,14 +50,15 @@ git reflog
 
 git tag v1.0
 
+git show v1.0
+
+git push origin v1.0
 
 nano comandos.txt
-
-git push
 
 git add .
 
 git commit -m "adiciona arquivo de comandos"
 
-
+git push
 
