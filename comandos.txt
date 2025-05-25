@@ -45,7 +45,7 @@ git checkout -b develop
 git switch master
 
 
- git reflog
+git reflog
 
 
 git tag v1.0
@@ -55,7 +55,9 @@ nano comandos.txt
 
 git push
 
+git add .
 
+git commit -m "adiciona arquivo de comandos"
 
 
 
